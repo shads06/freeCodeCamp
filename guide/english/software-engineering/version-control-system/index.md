@@ -3,7 +3,7 @@ title: Version Control System
 ---
 ## Version Control System
 
-Version control systems (VCS), also called Source Code Management (SCM), are tools used to track changes on files, manage version and ease collaborative file editing.
+Version control systems (VCS), also called Source Code Management (SCM), are tools used to track changes on files, manage version and ease collaborative file editing. Whether you write codes, create stylesheets, create icons everyone needs version control.
 There are mainly 2 types of VCS:
 - Centralized Version Control System 
 Where a central repository is authoritative. The associate architecture is client/server.
